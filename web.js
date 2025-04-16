@@ -34,7 +34,7 @@ var typed = new Typed('.textiii', {
     loop: true
 });
 var typed = new Typed('.textiiii', {
-    strings: ["Grocery Store Managements System"],
+    strings: ["Foodi Woodi"],
     typeSpeed: 50,
     backSpeed: 25,
     backDelay: 2000,

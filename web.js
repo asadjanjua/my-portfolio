@@ -40,3 +40,10 @@ var typed = new Typed('.textiiii', {
     backDelay: 2000,
     loop: true
 });
+var typed = new Typed('.textiiiii', {
+    strings: ["Currency Converter"],
+    typeSpeed: 50,
+    backSpeed: 25,
+    backDelay: 2000,
+    loop: true
+});
